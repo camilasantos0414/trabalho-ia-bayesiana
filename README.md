@@ -1,6 +1,6 @@
 # trabalho-ia-bayesian
 
-**Aluno/a:** [Camila dos Santos Soaraes e pedro meu namorado lindo]  
+**Aluno/a:** [Camila dos Santos Soares e pedro meu namorado lindo]  
 **Disciplina:** Inteligência Artificial (Turma ABI01)  
 **Instituição:** Universidade Federal do Amazonas (UFAM) - IComp  
 **Professor:** Edjard Mota  
